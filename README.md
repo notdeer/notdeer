@@ -1,11 +1,3 @@
 <div align="center">
-<img src="https://64.media.tumblr.com/d8f2adad98845a94ce9715475c1e8676/0d9d6392a423e969-72/s400x600/29c1a4d56a0653336a528f0a786cf50513dd7dd9.gif" alt="Chain" align="center"><img src="https://64.media.tumblr.com/d8f2adad98845a94ce9715475c1e8676/0d9d6392a423e969-72/s400x600/29c1a4d56a0653336a528f0a786cf50513dd7dd9.gif" alt="Fan" align="center">
-</div>
-
-<div align="center">
-WIP
-</div>
-
-<div align="center">
-<img src="https://64.media.tumblr.com/d8f2adad98845a94ce9715475c1e8676/0d9d6392a423e969-72/s400x600/29c1a4d56a0653336a528f0a786cf50513dd7dd9.gif" alt="Chain" align="center"><img src="https://64.media.tumblr.com/d8f2adad98845a94ce9715475c1e8676/0d9d6392a423e969-72/s400x600/29c1a4d56a0653336a528f0a786cf50513dd7dd9.gif" alt="Fan" align="center">
-</div>
+<img src="" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=50&duration=3500&pause=300&color=A5CFF7&center=true&multiline=true&repeat=false&random=false&width=1200&height=140&lines=Hello+and+welcome.;I'm+C1pher%2C+or+call+me+Iceberg+%E2%8A%B9" width="70%" />
