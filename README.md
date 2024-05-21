@@ -6,6 +6,6 @@
   💻 mirror prns · 17teen · aroace 💻
 </pre>
 <br><br>
-<img src="" height="40" />
+<img src="https://files.catbox.moe/iww8nt.gif" height="40" />
 <br><br><br>
 
