@@ -1,3 +1,1 @@
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=notdeer&color=dcad48&style=flat-square&label=&label=&#160;ᓚᘏᗢ&#160;&#160;&abbreviated=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=da9t9l71hreiuwbjemsjevzln&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=8c8c8c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
