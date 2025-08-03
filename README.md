@@ -6,7 +6,7 @@
 
 <sub> c + h is alright, but please ask first
   
-![](https://komarev.com/ghpvc/?username=notdeer&color=66b3ff&style=flat-square&label=&label=&#160;ᓚᘏᗢ&#160;&#160;&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=notdeer&color=ed1c24&style=flat-square&label=&label=&#160;ᓚᘏᗢ&#160;&#160;&abbreviated=true)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=da9t9l71hreiuwbjemsjevzln&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=66b3ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
