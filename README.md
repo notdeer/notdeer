@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=0.2rem&duration=2000&pause=500&color=66B3FF&center=true&multiline=true&repeat=false&width=435&height=180&lines=Fast+as+you+can%2C+baby;Scratch+me+out%2C+free+yourself;Fast+as+you+can...;Fast+as+you+can%2C+baby;Scratch+me+out%2C+free+yourself;Fast+as+you+can.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=0.2rem&duration=2000&pause=500&color=66B3FF&center=true&multiline=true&repeat=false&width=435&height=160&lines=Fast+as+you+can%2C+baby;Scratch+me+out%2C+free+yourself;Fast+as+you+can...;Fast+as+you+can%2C+baby;Scratch+me+out%2C+free+yourself;Fast+as+you+can.)](https://git.io/typing-svg)
 
 <sub> check out my [rentry](https://rentry.co/DATAMISSING) !
 
