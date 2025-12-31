@@ -2,6 +2,8 @@
 
 ![](https://files.catbox.moe/n9caz4.jpg)
 
+C + H is okay, but not when I'm with my friends or partner.​
+
 <sub> check out my [rentry](https://rentry.co/DATAMISSING) and other links !
   
 ![](https://komarev.com/ghpvc/?username=notdeer&color=ed1c24&style=flat-square&label=&label=&#160;ᓚᘏᗢ&#160;&#160;&abbreviated=true)
