@@ -10,4 +10,6 @@ C + H is okay, but not when I'm with my friends or partner.​
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=da9t9l71hreiuwbjemsjevzln&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=610f17&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=da9t9l71hreiuwbjemsjevzln&redirect=true)
 
-![](https://files.catbox.moe/wi2wy2.png)![](https://files.catbox.moe/bqpy3t.gif)![](https://files.catbox.moe/7gopy4.png)
+![Diamonds Droog](https://files.catbox.moe/lydj8z.gif)![Spades Slick](https://files.catbox.moe/frdi8x.gif)![Hearts Boxcars](https://files.catbox.moe/8wymo7.gif)![Clubs Deuce](https://files.catbox.moe/352v9c.gif)
+
+![Midnight Crew](https://files.catbox.moe/7ysy73.gif)![Drawing Dead](https://files.catbox.moe/4zaxmu.gif)
