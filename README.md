@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://files.catbox.moe/8zurc9.png)
+![](https://files.catbox.moe/wiy82k.jpg)
 
 C + H is okay, but not when I'm with my friends or partner.​
 
